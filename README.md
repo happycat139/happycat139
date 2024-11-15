@@ -15,6 +15,12 @@
 ## ✨ Experience ✨ 
 - <b>SMHRD 2024 K-Digital Training DCX 빅데이터 분석서비스 개발자과정</b> (2024.06 ~ ing)
 
+<br>
+
+## 📚 license 📚
+- 정보처리기사 자격증 취득 (2023.11)
+- SQLD 자격증 취득 (2023.12)
+
 
 
 <br>
