@@ -96,7 +96,6 @@
 <br>
 
 ## 📱 Contact 📱
-<a href="https://www.instagram.com/esplanade_139/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:m63477802@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="mailto:yewon@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
