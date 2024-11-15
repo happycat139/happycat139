@@ -8,6 +8,7 @@
 <br>
 
 ## 🖥 Project 🖥
+- 식재료 맞춤형 레시피 추천 기반 소셜미디어 서비스 <b>냉장고를 부탁해</b> 개발 (2024.09.11 ~ 2024.09.25)
 
 <br>
 
@@ -88,12 +89,6 @@
         <td>Operating System</td>
         <td>
             <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
-        <td>DataBase</td>
-        <td>
-            <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
         </td>
     </tr>
 </table>
