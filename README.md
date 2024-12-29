@@ -15,7 +15,10 @@
 <br>
 
 ## ✨ Experience ✨ 
-- <b>SMHRD 2024 K-Digital Training DCX 빅데이터 분석서비스 개발자과정</b> (2024.06 ~ ing)
+- <b>SMHRD 2024 K-Digital Training DCX 빅데이터 분석서비스 개발자과정</b> (2024.06 ~ 2024.12)
+- 제6회 K-디지털 트레이닝 해커톤 참여 (2024.08)
+- 제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 아이디어 공모전 참여 (2024.10)
+- 신한 AI 아이디어톤 참여 (2024.10)
 
 <br>
 
@@ -23,9 +26,16 @@
 - <b>정보처리기사</b> 자격증 취득 (2023.11)
 - SQL 개발자 자격증 (<b>SQLD</b>) 취득 (2023.12)
 
+<br>
 
+
+## 🏆Award🏆
+- SMHRD 핵심역량프로젝트 <b>최우수상</b> (2024.09.27)
+- SMHRD 실전역량프로젝트 <b>최우수상</b> (2024.12.20)
+- SMHRD 2024 K-Digital Training DCX 빅데이터 분석서비스 개발자과정 종합 성적 1위 수료 (2024.12.20)
 
 <br>
+
 
 ## 💻 Tech Stack 💻
 
@@ -85,12 +95,6 @@
         <td>Back-end</td>
         <td>
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
-        </td>
-    </tr>
-    <tr>
-        <td>Front-end</td>
-        <td>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
         </td>
     </tr>
     <tr>
