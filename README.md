@@ -2,19 +2,19 @@
 
 <br>
 
-## 📝 DEV's log 📝
+##  DEV's log 
 <a href="https://velog.io/@happycat_139/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
 <br>
 
-## 🖥 Project 🖥
+##  Project 
 - AI기반 아동 미술심리 검사 및 동화 생성 서비스 <b>ARTI PROJECT</b> (2024.11.27 ~ 2024.12.19)
 - BTB 무역회사 웹사이트 리뉴얼 프로젝트 (2024.10.03 ~ 2024.11.14)
 - 식재료 기반 맞춤형 레시피 추천 및 소셜미디어 웹서비스 <b>냉장고를 부탁해</b> 프로젝트 (2024.09.11 ~ 2024.09.25)
 
 <br>
 
-## ✨ Experience ✨ 
+##  Experience 
 - 광운대학교 경영학부 졸업 (2019.03 ~ 2024.02)
 - <b>SMHRD 2024 K-Digital Training DCX 빅데이터 분석서비스 개발자과정</b> (2024.06 ~ 2024.12)
 - 제6회 K-디지털 트레이닝 해커톤 참여 (2024.08)
@@ -23,14 +23,14 @@
 
 <br>
 
-## 🎖️ license 🎖️
+##  license 
 - <b>정보처리기사</b> 자격증 취득 (2023.11)
 - SQL 개발자 자격증 (<b>SQLD</b>) 취득 (2023.12)
 
 <br>
 
 
-## 🏆Award🏆
+## Award
 - SMHRD 핵심역량프로젝트 <b>최우수상</b> (2024.09.27)
 - SMHRD 실전역량프로젝트 <b>최우수상</b> (2024.12.20)
 - SMHRD 2024 K-Digital Training DCX 빅데이터 분석서비스 개발자과정 <b>종합 성적 1위</b> 수료 (2024.12.20)
@@ -38,7 +38,7 @@
 <br>
 
 
-## 💻 Tech Stack 💻
+##  Tech Stack 
 
 <table>
     <tr>
@@ -87,7 +87,7 @@
 
 <br>
 
-## 😅 A Little 😅
+##  A Little 
 
 <table>
     <tr>
