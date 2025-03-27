@@ -4,7 +4,7 @@
 
 ##  DEV's log 
 <a href="https://velog.io/@happycat_139/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-
+<a href="https://happycat139.tistory.com/"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 <br>
 
 ##  Project 
